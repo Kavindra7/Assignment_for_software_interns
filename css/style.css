@@ -1,0 +1,35 @@
+body{
+    background-color: #f6f6f6;
+    height: 70vh;
+}
+
+.container{
+    height: 100% !important;
+}
+
+.icon{
+    font-size: 46px;
+}
+.crad-link{
+    text-decoration: none;
+    color: #2c3034;
+}
+.wrapper{
+    width: 600px;
+    margin: 0 auto;
+}
+
+.cl-3{
+    justify-content: space-between;
+}
+.pull-left{
+    left: 0;
+}
+.pull-right{
+    float: right !important;
+}
+.table-screen{
+    max-height: 360px !important;
+    overflow-y: scroll !important;
+    overflow-x: hidden !important;
+}
